@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTicket", "AppTicket\AppTicket.csproj", "{A1646546-2EBC-4DE3-A2A0-0B4854DFE510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Repository", "App.Repository\App.Repository.csproj", "{67E8D642-1A18-4DDA-8A64-02B781D4B576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1646546-2EBC-4DE3-A2A0-0B4854DFE510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1646546-2EBC-4DE3-A2A0-0B4854DFE510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1646546-2EBC-4DE3-A2A0-0B4854DFE510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1646546-2EBC-4DE3-A2A0-0B4854DFE510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E8D642-1A18-4DDA-8A64-02B781D4B576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E8D642-1A18-4DDA-8A64-02B781D4B576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E8D642-1A18-4DDA-8A64-02B781D4B576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E8D642-1A18-4DDA-8A64-02B781D4B576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E885763-7FB4-48A9-98CC-D00F5D4264D3}
+	EndGlobalSection
+EndGlobal
